@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](LICENSE).
 - If you encounter any issues or have questions, feel free to open an issue in the repository.
 
 ### Support
-If you need assistance or have questions about using the code, you can reach out to the project maintainers via [email](mailto:example@example.com) or by opening an issue in the repository.
+If you need assistance or have questions about using the code, you can reach out to the project maintainers via [email](mailto:service@comfortunion.com) or by opening an issue in the repository.
 
 ---
 
