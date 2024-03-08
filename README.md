@@ -2,8 +2,9 @@
 
 ---
 check the Example:
-[https://comfortunion.com/best-furnace-company-calgary/](url)
-[https://comfortunion.com/blog/](url)
+[https://comfortunion.com/best-furnace-company-calgary/](https://comfortunion.com/best-furnace-company-calgary/)
+
+[https://comfortunion.com/blog/](https://comfortunion.com/blog/)
 
 ### Description
 This repository contains code to add meta keywords for a page using Advanced Custom Fields (ACF) in WordPress. The code allows you to create a custom field for keywords using a text editor within ACF, providing an easy way to manage meta keywords for individual pages.
