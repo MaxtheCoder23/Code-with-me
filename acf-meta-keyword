@@ -1,0 +1,15 @@
+function add_meta_keywords()
+{
+	global $post;
+	if (is_page()) {
+		$keywords = get_field('keywords', $post->ID);
+		if ($keywords != '') {
+			echo '<meta name="keywords" content="' . $keywords . '" />';
+		}
+
+	}
+
+
+}
+
+add_action('wp_head', 'add_meta_keywords');
